@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from datetime import datetime
 from sys import exit
 from pyramid.paster import get_app
 from tornado.autoreload import add_reload_hook, start
