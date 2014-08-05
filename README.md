@@ -15,3 +15,8 @@ Más información visite :
 <a href="http://www.avanet.org">Sitio de Avanet</a>
 
 <img src="http://2.bp.blogspot.com/-Sg_vvsJq1jI/Uwpj4BdBBgI/AAAAAAAAHps/WT0Wveoqvgw/s1600/LogoBlog.png">
+
+LICENCE
+==========
+
+GPL v3 <a href="http://www.gnu.org/licenses/gpl-3.0.html">http://www.gnu.org/licenses/gpl-3.0.html</a>
